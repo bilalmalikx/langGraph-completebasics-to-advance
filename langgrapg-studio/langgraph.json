@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "intermediate":"./intermediate.ipynb:agent"
+    },
+    "env":"../.env"
+}
